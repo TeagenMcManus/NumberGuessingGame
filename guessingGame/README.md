@@ -30,3 +30,6 @@ main():
         say "Try better next time"
     else: 
         say "perfect attempt"
+
+# Documentation
+https://docs.google.com/document/d/1ws8A83E2h0V3JhjzxS0770-oXaaqeGBWYnvDty5nXjY/edit?usp=sharing
